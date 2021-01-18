@@ -1,5 +1,6 @@
 基于ssm框架实现民宿管理系统
 
+程序有问题联系[程序帮](http://suo.nz/530ijn)：QQ1022287044
 
 项目介绍
 ----
@@ -338,4 +339,5 @@ public AjaxResult save(Goods goods){
 项目后续
 ----
 其他ssh，springboot版本后续迭代更新，持续关注
-程序有问题联系[程序帮](http://suo.nz/530ijn)
+
+程序有问题联系[程序帮](http://suo.nz/530ijn)：QQ1022287044
